@@ -1,5 +1,6 @@
 ## custom start
-**/reactivities.db
+**/*.db-*
+**/*.db
 ## custom end
 
 ## Ignore Visual Studio temporary files, build results, and
